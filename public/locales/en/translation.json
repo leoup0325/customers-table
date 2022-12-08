@@ -1,0 +1,15 @@
+{
+  "tables": {
+    "id": "ID",
+    "name": "Name",
+    "short_location": "Short Location",
+    "long_location": "Location"
+  },
+  "customer": {
+    "view_details": "Details of {{name}}"
+  },
+  "error": {
+    "unknown": "Unknown Error",
+    "server": "Server Error"
+  }
+}
